@@ -95,7 +95,7 @@
 		}
 
 		place {
-			control=GPUWebViewCheck,DPIScalingCheck
+			control=GPUWebViewCheck,DPIScalingCheck,SmoothScrollWebViewCheck
 			start=SkinCombo
 			dir=down
 			y=4
@@ -105,12 +105,11 @@
 
 		place {
 			control=Label4
-			start=DPIScalingCheck
+			start=SmoothScrollWebViewCheck
 			dir=down
 			y=18
 			spacing=2
 		}
-
 		place {
 			control=LanguageCombo
 			start=Label4
@@ -124,7 +123,7 @@
 			control=UrlBarCheck
 			start=LanguageCombo
 			dir=down
-			y=8
+			y=4
 			height=18
 			spacing=8
 		}
@@ -133,7 +132,7 @@
 			control=NotifyAvailableGamesCheck
 			start=URLBarCheck
 			dir=down
-			y=8
+			y=4
 			height=36
 		}
 	}
