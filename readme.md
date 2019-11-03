@@ -22,3 +22,9 @@ Pressure² is a blend of beauty and function. Every part of Steam has been caref
 
 ## [Frequently Asked Questions](https://github.com/DirtDiglett/Pressure2/wiki)
 View the list of frequently asked questions... Occasionally some even have answers.
+
+## Images (As of 3rd November 2019)
+Here are a couple images of the skin. The look and feel of the skin can change at any time, so what you see in these images might not be what you see when you download the skin.
+![Image1](main.png)
+![Image2](downloads.png)
+![Image3](settings.png)
